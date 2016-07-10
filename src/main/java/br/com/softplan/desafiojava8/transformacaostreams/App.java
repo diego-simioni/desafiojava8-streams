@@ -16,7 +16,7 @@ public class App
     {
         // o primeiro passo é pegar os dados do nosso DAO
         List<Funcionario> funcionarios = dao.getFuncionarios();
-
+        //Teste Diego
         // em seguida, aplicamos os aumentos:
         // 40% para os gerentes
         // 20% para os demais empregados
